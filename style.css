@@ -1,0 +1,55 @@
+body {
+    background-color:#b79c74;
+
+}
+h1 {
+    font-family: sans-serif;
+    border-bottom: #074022;
+    color: #cc5555;
+      text-shadow: 
+               -1px -1px 0px #233e14, 
+               -1px 1px 0px #233e14,                    
+                1px -1px 0px #233e14,                  
+                1px 0px 0px #233e14;
+}
+.cabecalho2 {
+    color: #074022;
+    padding-left: 10%;
+    padding-top: 10;
+}
+.texto {
+    margin-left: 25px;
+    color: #074022;
+    font-family: sans-serif ;
+    font-size: 20px;
+}
+.lista {
+    color:#074022;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.cabecalho2 {
+    font-family: sans-serif;
+
+}
+.contato {
+    background-color: #074022;
+    font-family: sans-serif ;
+    font-size: 15px;
+    color: #b39c70;
+    }
+
+figcaption {
+    color:#074022;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+header{
+    background-color: #074022;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #b79c74;
+    padding-top: 1%;
+    
+}
+h4 {margin-left: 150px;}
